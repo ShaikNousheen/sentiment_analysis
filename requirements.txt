@@ -2,3 +2,10 @@ streamlit
 scikit-learn
 pandas
 numpy
+matplotlib
+seaborn
+transformers
+torch
+regex
+joblib
+scipy
